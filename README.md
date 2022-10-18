@@ -1,2 +1,2 @@
 # DrowisinessDetectionSystem
-Detecting blinking and as emissions in a car.
+Detecting eye blinking and gas emissions in a car.
